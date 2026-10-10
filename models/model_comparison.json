@@ -1,0 +1,98 @@
+{
+    "Logistic Regression": {
+        "Accuracy": 0.9665,
+        "Precision": 0.9484,
+        "Recall": 0.9672,
+        "F1-Score": 0.9577,
+        "ROC-AUC": 0.995,
+        "CV_F1_Mean": 0.9579,
+        "CV_F1_Std": 0.0033,
+        "Training_Time_Sec": 2.31,
+        "Confusion_Matrix": [
+            [
+                2188,
+                77
+            ],
+            [
+                48,
+                1414
+            ]
+        ],
+        "True_Negative": 2188,
+        "False_Positive": 77,
+        "False_Negative": 48,
+        "True_Positive": 1414
+    },
+    "Multinomial Naive Bayes": {
+        "Accuracy": 0.9498,
+        "Precision": 0.9346,
+        "Recall": 0.9378,
+        "F1-Score": 0.9362,
+        "ROC-AUC": 0.9889,
+        "CV_F1_Mean": 0.9413,
+        "CV_F1_Std": 0.0037,
+        "Training_Time_Sec": 1.49,
+        "Confusion_Matrix": [
+            [
+                2169,
+                96
+            ],
+            [
+                91,
+                1371
+            ]
+        ],
+        "True_Negative": 2169,
+        "False_Positive": 96,
+        "False_Negative": 91,
+        "True_Positive": 1371
+    },
+    "Random Forest": {
+        "Accuracy": 0.9541,
+        "Precision": 0.9388,
+        "Recall": 0.9446,
+        "F1-Score": 0.9417,
+        "ROC-AUC": 0.9902,
+        "CV_F1_Mean": 0.9385,
+        "CV_F1_Std": 0.0028,
+        "Training_Time_Sec": 4.79,
+        "Confusion_Matrix": [
+            [
+                2175,
+                90
+            ],
+            [
+                81,
+                1381
+            ]
+        ],
+        "True_Negative": 2175,
+        "False_Positive": 90,
+        "False_Negative": 81,
+        "True_Positive": 1381
+    },
+    "Linear SVM (Calibrated)": {
+        "Accuracy": 0.9716,
+        "Precision": 0.9514,
+        "Recall": 0.9774,
+        "F1-Score": 0.9642,
+        "ROC-AUC": 0.9957,
+        "CV_F1_Mean": 0.9632,
+        "CV_F1_Std": 0.0033,
+        "Training_Time_Sec": 2.16,
+        "Confusion_Matrix": [
+            [
+                2192,
+                73
+            ],
+            [
+                33,
+                1429
+            ]
+        ],
+        "True_Negative": 2192,
+        "False_Positive": 73,
+        "False_Negative": 33,
+        "True_Positive": 1429
+    }
+}

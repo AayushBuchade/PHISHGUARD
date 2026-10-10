@@ -1,0 +1,24 @@
+From: "PayPal Security Center" <service-update@paypal-verify-protection.xyz>
+To: target-user@company.com
+Reply-To: credential-collector@stealth-mail.pw
+Return-Path: <bounce@unregistered-relay.ru>
+Subject: CRITICAL SECURITY ALERT: Your PayPal Account Has Been Suspended!
+Date: Thu, 10 Oct 2026 08:42:15 +0000
+Message-ID: <20261010084215.98172@paypal-verify-protection.xyz>
+Authentication-Results: spf=fail (sender IP 185.220.101.5) smtp.mailfrom=paypal-verify-protection.xyz; dkim=fail; dmarc=fail
+Content-Type: text/plain; charset="utf-8"
+
+URGENT NOTICE!
+
+We detected an unauthorized login attempt from IP address 192.168.1.105 at 03:14 AM.
+For your safety, your PayPal account and all linked banking cards have been temporarily SUSPENDED.
+
+You must verify your credentials immediately to avoid permanent account termination within 24 hours.
+
+Please click here to confirm your identity and unlock your wallet:
+http://192.168.1.105/paypal-auth/login.php?session=9284029
+
+Do not ignore this message. Failure to verify will result in legal escalation and irreversible asset freeze.
+
+Sincerely,
+PayPal Security & Fraud Detection Operations

@@ -1,0 +1,246 @@
+{
+    "top_phishing_tokens": [
+        {
+            "token": "your",
+            "weight": 5.6162
+        },
+        {
+            "token": "2005",
+            "weight": 4.3271
+        },
+        {
+            "token": "http",
+            "weight": 4.2828
+        },
+        {
+            "token": "you",
+            "weight": 3.8928
+        },
+        {
+            "token": "remove",
+            "weight": 3.7589
+        },
+        {
+            "token": "our",
+            "weight": 3.6955
+        },
+        {
+            "token": "here",
+            "weight": 3.5698
+        },
+        {
+            "token": "2004",
+            "weight": 3.2694
+        },
+        {
+            "token": "money",
+            "weight": 3.1266
+        },
+        {
+            "token": "click here",
+            "weight": 3.1055
+        },
+        {
+            "token": "click",
+            "weight": 3.0718
+        },
+        {
+            "token": "free",
+            "weight": 3.0659
+        },
+        {
+            "token": "best",
+            "weight": 2.8726
+        },
+        {
+            "token": "quality",
+            "weight": 2.8334
+        },
+        {
+            "token": "life",
+            "weight": 2.7747
+        },
+        {
+            "token": "viagra",
+            "weight": 2.7632
+        },
+        {
+            "token": "no",
+            "weight": 2.7215
+        },
+        {
+            "token": "mobile",
+            "weight": 2.6161
+        },
+        {
+            "token": "token_currency_amount",
+            "weight": 2.5913
+        },
+        {
+            "token": "for you",
+            "weight": 2.5304
+        },
+        {
+            "token": "man",
+            "weight": 2.5064
+        },
+        {
+            "token": "hello",
+            "weight": 2.4931
+        },
+        {
+            "token": "investment",
+            "weight": 2.465
+        },
+        {
+            "token": "email",
+            "weight": 2.451
+        },
+        {
+            "token": "site",
+            "weight": 2.4221
+        },
+        {
+            "token": "save",
+            "weight": 2.413
+        },
+        {
+            "token": "low",
+            "weight": 2.3775
+        },
+        {
+            "token": "online",
+            "weight": 2.3349
+        },
+        {
+            "token": "you will",
+            "weight": 2.3185
+        },
+        {
+            "token": "software",
+            "weight": 2.3069
+        }
+    ],
+    "top_legitimate_tokens": [
+        {
+            "token": "enron",
+            "weight": -7.8677
+        },
+        {
+            "token": "wrote",
+            "weight": -5.134
+        },
+        {
+            "token": "2002",
+            "weight": -4.6617
+        },
+        {
+            "token": "thanks",
+            "weight": -4.6544
+        },
+        {
+            "token": "token_url_link",
+            "weight": -4.5362
+        },
+        {
+            "token": "the",
+            "weight": -4.0004
+        },
+        {
+            "token": "vince",
+            "weight": -3.9005
+        },
+        {
+            "token": "language",
+            "weight": -3.7566
+        },
+        {
+            "token": "on",
+            "weight": -3.6492
+        },
+        {
+            "token": "attached",
+            "weight": -3.5882
+        },
+        {
+            "token": "enron com",
+            "weight": -3.4693
+        },
+        {
+            "token": "2001",
+            "weight": -3.3515
+        },
+        {
+            "token": "713",
+            "weight": -3.2001
+        },
+        {
+            "token": "that",
+            "weight": -3.1684
+        },
+        {
+            "token": "university",
+            "weight": -3.0166
+        },
+        {
+            "token": "edu",
+            "weight": -2.9754
+        },
+        {
+            "token": "linguistics",
+            "weight": -2.9742
+        },
+        {
+            "token": "louise",
+            "weight": -2.9654
+        },
+        {
+            "token": "2000",
+            "weight": -2.905
+        },
+        {
+            "token": "url",
+            "weight": -2.8113
+        },
+        {
+            "token": "congratulations",
+            "weight": -2.7583
+        },
+        {
+            "token": "cnet",
+            "weight": -2.6152
+        },
+        {
+            "token": "houston",
+            "weight": -2.5713
+        },
+        {
+            "token": "token_url_link date",
+            "weight": -2.5266
+        },
+        {
+            "token": "url token_url_link",
+            "weight": -2.5235
+        },
+        {
+            "token": "to",
+            "weight": -2.3924
+        },
+        {
+            "token": "about",
+            "weight": -2.377
+        },
+        {
+            "token": "date",
+            "weight": -2.3748
+        },
+        {
+            "token": "doc",
+            "weight": -2.3244
+        },
+        {
+            "token": "users",
+            "weight": -2.3193
+        }
+    ]
+}
